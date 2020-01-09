@@ -52,12 +52,12 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=wf3-3qwAAAAJ
-  - icon: researchgate
-icon_pack: fab
-link: https://www.researchgate.net/profile/Abhishta_Abhishta
-  - icon: linkedin
-icon_pack: fab
-link: https://www.linkedin.com/in/aabhishta
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Abhishta_Abhishta
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/aabhishta
 - icon: github
   icon_pack: fab
   link: https://github.com/abhishta91
