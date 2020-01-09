@@ -52,12 +52,16 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=wf3-3qwAAAAJ
+  - icon: researchgate
+icon_pack: fab
+link: https://www.researchgate.net/profile/Abhishta_Abhishta
+  - icon: linkedin
+icon_pack: fab
+link: https://www.linkedin.com/in/aabhishta
 - icon: github
   icon_pack: fab
   link: https://github.com/abhishta91
-- icon: researchgate
-icon_pack: fab
-link: https://www.researchgate.net/profile/Abhishta_Abhishta 
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,13 +69,13 @@ link: https://www.researchgate.net/profile/Abhishta_Abhishta
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+#email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 I am an assistant professor of finance and cyber risk management at University of Twente. I am a member of hightech business and entrepreneurship (HBE) department at the faculty of behavioural management and social sciences (BMS). My research interests include applied finance, security economics and network security. I am interested in empirically measuring the economic impact of cyber attacks on public private organisations. My research helps organisations in cyber security decision-making. 
