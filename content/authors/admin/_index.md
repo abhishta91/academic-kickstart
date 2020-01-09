@@ -78,6 +78,5 @@ social:
 #- Visitors
 ---
 
-I am an assistant professor of finance and cyber risk management at University of Twente. I am a member of hightech business and entrepreneurship (HBE) department at the faculty of behavioural management and social sciences (BMS). My research interests include applied finance, security economics and network security. I am interested in empirically measuring the economic impact of cyber attacks on public private organisations. My research helps organisations in cyber security decision-making. 
+I am an assistant professor of finance and cyber risk management at University of Twente. I am a member of hightech business and entrepreneurship (HBE) department at the faculty of behavioural management and social sciences (BMS). My research interests include applied finance, security economics and network security. I am interested in empirically measuring the economic impact of cyber attacks on public and private organisations. My research aims at helping organisations with cyber security decision-making. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
