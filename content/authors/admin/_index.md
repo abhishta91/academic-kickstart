@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: A. Abhishta
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Finance and Cyber Risk Management
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Twente
+  url: "www.utwente.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Applied Finance 
+- Security Economics
+- Network Security
+- Cyber Risk Management
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Security Economics
+    institution: University of Twente
+    year: 2019
+  - course: MBA (Operations and IT)
+    institution: Thapar Institute of Engineering and Technology
+    year: 2015
+  - course: BE in Industrial Engineering
+    institution: Thapar Institute of Engineering and Technology
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:s.abhishta@utwente.nl"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
