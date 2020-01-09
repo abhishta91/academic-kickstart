@@ -18,7 +18,7 @@ organizations:
   url: "www.utwente.nl/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include network security, security economics and applied finance.
 
 interests:
 - Applied Finance 
@@ -56,8 +56,8 @@ social:
   icon_pack: fab
   link: https://github.com/abhishta91
 - icon: fa-researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Abhishta_Abhishta 
+icon_pack: fab
+link: https://www.researchgate.net/profile/Abhishta_Abhishta 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an assistant professor of finance and cyber risk management at University of Twente. My research interests include applied finance, security economics and network security. I am interested in empirically measuring the economic impact of cyber attacks on public private organisations. My research helps organisations in cyber security decision-making. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
