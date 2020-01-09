@@ -1,17 +1,4 @@
 ---
-title: Publications
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-view: 4
-
-# Optional header image (relative to `static/img/` folder).
-#header:
-  #caption: ""
-  #image: ""
 title: "Comparing alternatives to measure the impact of DDoS attack announcements on target stock prices"
 date: 2017-01-01
 publishDate: 2020-01-09T14:56:26.794793Z
@@ -23,3 +10,4 @@ publication: "*Journal of Wireless Mobile Networks, Ubiquitous Computing, and De
 url_pdf: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85042672248&doi=10.22667%2fJOWUA.2017.12.31.001&partnerID=40&md5=db4d3184a2287626f573f084937b6f26"
 doi: "10.22667/JOWUA.2017.12.31.001"
 ---
+
