@@ -1,6 +1,6 @@
 ---
 # Display name
-name: A. Abhishta
+name: Abhishta Abhishta
 
 # Username (this should match the folder name)
 authors:
@@ -78,5 +78,8 @@ social:
 #- Visitors
 ---
 
-I am an assistant professor of finance and cyber risk management at University of Twente. I am a member of hightech business and entrepreneurship (HBE) department at the faculty of behavioural management and social sciences (BMS). My research interests include applied finance, security economics and network security. I am interested in empirically measuring the economic impact of cyber attacks on public and private organisations. My research aims at helping organisations with cyber security decision-making. 
+I am an assistant professor at the *Industrial Engineering and Business Information Systems* group at *University of Twente*.
+My research focuses on empirically measuring the economic/financial impact of cyber attacks. In order to do so I device/adapt data-driven economic impact assessment techniques. I look to help organisations make well-measured investments in security.
+My doctoral research was funded under NWO project *D3 – Distributed Denial-of-Service Defense: protecting schools and other public organizations*. You can access a copy of his doctoral thesis here.
+Other than finding (un)cool methods of finding the “devil” in financial details I am also involved in teaching and guiding students. From time to time I also deliver lectures to executives and collaborate with companies to help them with security decision making. I am also a member of *behavioural data science incubator* at the faculty of *BMS* at the university, where I contribute to solving social science problems using data science.
 
