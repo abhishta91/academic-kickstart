@@ -80,6 +80,6 @@ social:
 
 I am an assistant professor at the *Industrial Engineering and Business Information Systems* group at *University of Twente*.
 My research focuses on empirically measuring the economic/financial impact of cyber attacks. In order to do so I device/adapt data-driven economic impact assessment techniques. I look to help organisations make well-measured investments in security.
-My doctoral research was funded under NWO project *D3 – Distributed Denial-of-Service Defense: protecting schools and other public organizations*. You can access a copy of his doctoral thesis here.
+My doctoral research was funded under NWO project *D3 – Distributed Denial-of-Service Defense: protecting schools and other public organizations*. You can access a copy of his doctoral thesis [here](https://ris.utwente.nl/ws/portalfiles/portal/158275031/main_openany.pdf "The Blind Man and The Elephant: Measuring Economic Impacts of DDoS Attacks").
 Other than finding (un)cool methods of finding the “devil” in financial details I am also involved in teaching and guiding students. From time to time I also deliver lectures to executives and collaborate with companies to help them with security decision making. I am also a member of *behavioural data science incubator* at the faculty of *BMS* at the university, where I contribute to solving social science problems using data science.
 
