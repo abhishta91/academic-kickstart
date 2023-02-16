@@ -9,5 +9,5 @@ featured: true
 publication: "*University of Twente*"
 tags: ["Cybersecurity"]
 doi: "10.3990/1.9789036549127"
-url_pdf:"https://research.utwente.nl/files/159828659/The_blind_man_and_the_elephant_rs.pdf"
+url_pdf: "https://research.utwente.nl/files/159828659/The_blind_man_and_the_elephant_rs.pdf"
 ---
