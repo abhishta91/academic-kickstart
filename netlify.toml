@@ -24,3 +24,35 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+# Redirects for content type migration
+
+[[redirects]]
+  from = "/post/*"
+  to = "/blog/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/publication/*"
+  to = "/publications/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/project/*"
+  to = "/projects/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/event/*"
+  to = "/events/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/teaching/*"
+  to = "/courses/:splat"
+  status = 301
+  force = true
